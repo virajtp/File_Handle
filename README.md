@@ -1,6 +1,5 @@
 # File_Handle
 
-# File_Handle
 Handle a text file with mathematical formulas c++
 
 A text file with mathematical formulas is provided and the result of each
